@@ -2,4 +2,4 @@
 cell = "   "
 row = cell + "|" + cell + "|" + cell
 dash = "-----------"
-board = 
+board = row + "/n"
