@@ -2,4 +2,5 @@
 cell = "   "
 row = cell + "|" + cell + "|" + cell
 dash = "-----------"
-board = row + "/n"
+board = row + "\n" + dash + row + "\n" + dash + row
+puts board
