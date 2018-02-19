@@ -5,5 +5,5 @@ def display_board
   row = cell + "|" + cell + "|" + cell
   dash = "-----------"
   board = (row + "\n" + dash +"\n" + row + "\n" + dash + "\n" + row)
-  board
+  puts board
 end 
